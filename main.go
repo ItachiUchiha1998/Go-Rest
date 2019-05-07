@@ -1,7 +1,7 @@
 package main
 
 import (
-	"jwt-rest/store"
+	"Go-Rest/store"
 	"log"
 	"net/http"
 
